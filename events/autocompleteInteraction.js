@@ -1,6 +1,6 @@
 /**
  * @file Autocomplete Interaction Handler
- * @author Naman Vrati
+ * @author Naman Vrati & re_sistance
  * @since 3.3.0
  * @version 3.3.2
  */

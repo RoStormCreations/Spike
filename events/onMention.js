@@ -17,7 +17,7 @@ module.exports = {
 		) {
 			const bot_message = new EmbedBuilder()
 				.setDescription(
-					`Hi ${message.author}! I am Taurus. Chat to me by mentioning me and typing your message! Or alternatively run \`/taurus\`!`,
+					`Hi ${message.author}! I am Spike. Chat to me by mentioning me and typing your message! Or alternatively run \`/Spike\`!`,
 				)
 				.setColor("Gold");
 

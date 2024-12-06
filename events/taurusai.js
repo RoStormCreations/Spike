@@ -1,6 +1,6 @@
 /**
  * @file TaurusAI Events
- * @author TechyGiraffe999
+ * @author re_sistance
  */
 
 const { Events, EmbedBuilder } = require("discord.js");

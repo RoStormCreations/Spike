@@ -21,7 +21,7 @@ module.exports = {
 				{
 					type: ActivityType.Custom,
 					name: "Status",
-					state: "💾 Chilling in the Cloud!",
+					state: "0.0.1",
 				},
 			],
 		});
